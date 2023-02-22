@@ -1,0 +1,9 @@
+.pluger{
+    padding: 20px;
+    box-shadow:0px 0px 10px 10px #685d5d ;
+    background-image: linear-gradient(to right, #aac2e6, #84cee5, #7ed6c9, #a6d7a0, #dece84);
+    display: flex;
+    justify-content: left;
+    text-align: center;
+}
+
